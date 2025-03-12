@@ -1,0 +1,6 @@
+@GenericDataAccessLayer_HostAddress = http://localhost:5210
+
+GET {{GenericDataAccessLayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
